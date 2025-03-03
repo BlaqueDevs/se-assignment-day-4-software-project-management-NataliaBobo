@@ -33,6 +33,7 @@ By maintaining high code quality standards, the amount of time spent on debuggin
    
 ## 2. How does effective cost control contribute to the success of a software project? What strategies can be used to prevent budget overruns?
 HOW EFFECTIVE COST CONTROL CONTRIBUTE TO THE SUCCESS OF SOFTWARE PROJECT
+ 
  Improved resource allocation > This is to ensure the task distribution are used where most needed.
 
  Enhanced Project Planning > It forces a more detailed and realistic approach to project planning, leading to better estimations and risk assessments.
@@ -44,6 +45,7 @@ HOW EFFECTIVE COST CONTROL CONTRIBUTE TO THE SUCCESS OF SOFTWARE PROJECT
 Increased Stakeholder Confidence > This builds trust and confidence of the stakeholders for being responsible in their project.
 
 STRATEGIES CAN BE USED TO PREVENT BUDGET OVERRUNS
+
 Accurate budget evaluation > The budget should constantly be checked to avoid any issues in the future.
 
 Project planning > Through this, the project budget can be analysed to create a clear roadmap foe the project and to identify potential cost drivers.
@@ -57,6 +59,7 @@ Risk Management > Identify and assess potential risks that could impact the proj
 
 ## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
 AGILE vs WATERFALL
+
 AGILE
 Iterative approach that breaks projects into manageable phases.
 Customer collaboration over contract negotiation.
@@ -64,45 +67,77 @@ Values working software over comprehensive documentation.
 Projects with** evolving requirements and dynamic environments**.(BEST FOR THESE PROJECTS)
 
 PROS
+
 Faster time to market.
 Highly adaptable to change.
 Continuous customer feedback.
 
 CONS
+
 Requires strong collaboration and communication.
 Less predictable timelines and budgets.
 Can be challenging to manage.
 
 WATERFALL
+
 It is a sequential method of managing a project.
 Changes are difficult and costly to implement once a phase is complete.
 Detailed documentation and upfront planning are crucial.
 Projects with well-defined requirements and stable environments(BEST FOR THESE PROJECTS)
 
 PROS
+
 Easy to understand and manage
 Suitable for project with strict requirements.
 Clear structure and predictability.
 
 CONS
+
 Limited customer feedback
 Risk of delivering a product that doesn't meet evolving needs.
 Delays testing until after completion.
 
 COMPARISONS
 
+Flexibility
 Agile - Very flexible
 Waterfall - Rigid
 
+Change management
 Agile - Embraces change
 Waterfall - Resistant to change 
 
+Project Structure
 Agile - Breaks projects into manageable phases.
 Waterfall - Sequential method of managing a project.
 
 
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
-Agile > Projects with evolving requirements and dynamic environments.
+Agile 
+
+> Projects with evolving requirements and dynamic environments, hence more beneficial.
+
+For example: Web application development - The software can be updated and put up-to date based on the user behavior.
+
+Projects Where Speed and Flexibility Are Crucial 
+
+ > Agile's focus on short iterations allows for faster time to market.
+
+For example: 
+Software startups: Needing to rapidly adapt to market changes and growth.
+
+Waterfall
+
+> Projects with Well-Defined and Stable Requirements require sequential structure.
+
+For example: Government projects where regulations and requirements are very strict, waterfall methodology can be used.
+
+Projects Where Predictability and Control Are Essential
+
+> Waterfall provides a clear roadmap for better cost and project duration.
+
+For example: Software development, defining all software features and user interface requirements in the initial phase, followed by coding, thorough testing, and deployment. 
+
 
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
