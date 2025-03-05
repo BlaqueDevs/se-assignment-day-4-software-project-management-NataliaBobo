@@ -32,6 +32,7 @@ Code quality standards:
 By maintaining high code quality standards, the amount of time spent on debugging and fixing errors is greatly reduced, this ensures deliveries happen on time.  
    
 ## 2. How does effective cost control contribute to the success of a software project? What strategies can be used to prevent budget overruns?
+
 HOW EFFECTIVE COST CONTROL CONTRIBUTE TO THE SUCCESS OF SOFTWARE PROJECT
  
  Improved resource allocation > This is to ensure the task distribution are used where most needed.
@@ -60,6 +61,7 @@ Risk Management > Identify and assess potential risks that could impact the proj
 AGILE vs WATERFALL
 
 AGILE
+
 Iterative approach that breaks projects into manageable phases.
 Customer collaboration over contract negotiation.
 Values working software over comprehensive documentation.
@@ -98,15 +100,18 @@ Delays testing until after completion.
 
 COMPARISONS
 
-Flexibility
+Flexibility:
+
 Agile - Very flexible
 Waterfall - Rigid
 
-Change management
+Change management:
+
 Agile - Embraces change
 Waterfall - Resistant to change 
 
-Project Structure
+Project Structure:
+
 Agile - Breaks projects into manageable phases.
 Waterfall - Sequential method of managing a project.
 
@@ -208,15 +213,15 @@ Task assignment -> The WBS components can be assigned to team members for effect
   
    BENEFITS OF DEVELOPING A DETAILED PROJECT SCHEDULE
 
-   Project allocation -> Team members are allocated tasks for faster project completion.
+Project allocation -> Team members are allocated tasks for faster project completion.
   
-  Clear communication -> The project schedule provides the time and the resources needed for the project to be successful.
+Clear communication -> The project schedule provides the time and the resources needed for the project to be successful.
 
-  Risk Management -> This prevents any misunderstanding from happening, between the stackholders and the project managers.
+Risk Management -> This prevents any misunderstanding from happening, between the stackholders and the project managers.
 
- Budget Management -> This ensures that the resources neccesary for the project to work are paid for and provided. 
+Budget Management -> This ensures that the resources neccesary for the project to work are paid for and provided. 
 
- Order Management -> This ensures everything runs smoothly, while working on the project, all tasks are done at the correct time.
+Order Management -> This ensures everything runs smoothly, while working on the project, all tasks are done at the correct time.
 
  HOW GANTT CHARTS CAN HELP IN THIS PROCESS
 
@@ -248,19 +253,20 @@ They would not be worried about the hospital bills because they telemedicine got
 
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
  
-  Gathering the requirements to solve the problem.
+ Gathering the requirements to solve the problem.
 
-  Provide clear communication to the stakeholders on where the problem is and its solution.
+ Provide clear communication to the stakeholders on where the problem is and its solution.
 
-  Enhancing user experience to prevent issues on the software hence easy experience when using the software.
+ Enhancing user experience to prevent issues on the software hence easy experience when using the software.
 
-  Minimizes costly retakes on the project that is why it is important to identify the problem from the start.
+ Minimizes costly retakes on the project that is why it is important to identify the problem from the start.
 
-  Focused development, by understanding the problem, developers can avoid building unnecessary features and concentrate on creating a solution that delivers real value.
+ Focused development, by understanding the problem, developers can avoid building unnecessary features and concentrate on creating a solution that delivers real value.
 
 ## 10. How would you describe your software solution without involving the technical part.
 
-> The software solves the problem of accessing medicines in areas that are underserved.
+> The Problem is solved:
+   The software solves the problem of accessing medicines in areas that are underserved.
 
   Patient's access to the software should be easy and efficient to control.
 
