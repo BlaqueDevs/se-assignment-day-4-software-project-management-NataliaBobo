@@ -167,9 +167,9 @@ Continuous Integration/Continuous Delivery (CI/CD): Automating the integration a
 
 IMPORTANCE OF MAINTAINING HIGH STANDARDS
 
-Accuracy: This ensures the project gives the correct output.
+Accuracy > This ensures the project gives the correct output.
 
-Reliability: This ensures the project runs smoothly throughout the required period.
+Reliability > This ensures the project runs smoothly throughout the required period.
 
 Reputation > This leaves a good review to the clients in need of the projects, from the developers.
 
@@ -193,7 +193,7 @@ Prevention of uncontrolled changes to the project scope - This is a major cause 
 
 WORK BREAKDOWN STRUCTURE(WBS) AND WHY IS IT USEFUL
 
-> WBS is the process of breaking down a large project scope into smaller and more manageable components.
+ WBS is the process of breaking down a large project scope into smaller and more manageable components.
 
 IT'S USEFULNESS
 
