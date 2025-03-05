@@ -223,7 +223,7 @@ Order Management -> This ensures everything runs smoothly, while working on the 
 
  HOW GANTT CHARTS CAN HELP IN THIS PROCESS
 
-> Gantt charts provide a visual representation of project timelines and dependancies.
+- Gantt charts provide a visual representation of project timelines and dependancies.
  Their aid;
 
 Duration -> Gantt charts clearly show the start and end dates of each task, and the overall deadline of the project.
@@ -263,8 +263,9 @@ They would not be worried about the hospital bills because they telemedicine got
 
 ## 10. How would you describe your software solution without involving the technical part.
 
-> The Problem is solved:
-   The software solves the problem of accessing medicines in areas that are underserved.
+ The Problem is solved:
+   
+  -The software solves the problem of accessing medicines in areas that are underserved.
 
   Patient's access to the software should be easy and efficient to control.
 
