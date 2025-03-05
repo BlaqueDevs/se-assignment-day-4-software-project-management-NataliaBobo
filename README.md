@@ -117,13 +117,13 @@ Waterfall - Sequential method of managing a project.
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
 Agile 
 
-> Projects with evolving requirements and dynamic environments, hence more beneficial.
+Projects with evolving requirements and dynamic environments, hence more beneficial.
 
 For example: Web application development - The software can be updated and put up-to date based on the user behavior.
 
 Projects Where Speed and Flexibility Are Crucial 
 
- > Agile's focus on short iterations allows for faster time to market.
+ Agile's focus on short iterations allows for faster time to market.
 
 For example: 
 
@@ -131,13 +131,13 @@ Software startups: Needing to rapidly adapt to market changes and growth.
 
 Waterfall
 
-> Projects with Well-Defined and Stable Requirements require sequential structure.
+Projects with Well-Defined and Stable Requirements require sequential structure.
 
 For example: Government projects where regulations and requirements are very strict, waterfall methodology can be used.
 
-Projects Where Predictability and Control Are Essential
+Projects Where Predictability and Control Are Essential.
 
-> Waterfall provides a clear roadmap for better cost and project duration.
+Waterfall provides a clear roadmap for better cost and project duration.
 
 For example: Software development, defining all software features and user interface requirements in the initial phase, followed by coding, thorough testing, and deployment. 
 
