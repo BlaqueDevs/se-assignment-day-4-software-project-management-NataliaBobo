@@ -58,9 +58,7 @@ Using project management tools(Asana, Trello, Jira) > These tools can provide va
 Risk Management > Identify and assess potential risks that could impact the project budget, minimize the impact of these risks.   
 
 ## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
-AGILE vs WATERFALL
-
-AGILE
+AGILE 
 
 Iterative approach that breaks projects into manageable phases.
 Customer collaboration over contract negotiation.
